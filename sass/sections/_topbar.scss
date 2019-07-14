@@ -6,7 +6,6 @@ header {
   display: flex;
   justify-content: flex-end;
   border-bottom: 1px solid $grayLight;
-  //   margin-right: 14px;
   background: $white;
   z-index: 1;
   [class*="icon-"] {
@@ -31,3 +30,8 @@ header {
 .header--wallet-amount {
   padding: 0 10px 0 20px;
 }
+
+/*@media (max-width: 768px) {
+  header {
+    display: none;
+  }*/

@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  // padding-left: 188px;
+
   display: flex;
   flex-direction: row-reverse;
   align-items: stretch;
@@ -13,12 +13,9 @@ body {
   flex-grow: 1;
   height: 100vh;
   background: $light;
-  // width: 100%;
   overflow: auto;
   main {
     padding: 20px;
-    // totest scroll
-    // max-width: 200px;
     overflow: auto;
     height: 100%;
     padding: 20px;

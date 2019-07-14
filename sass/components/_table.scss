@@ -9,10 +9,12 @@
     border-bottom: 1px solid $grayLight;
     &:first-of-type {
       border-top: 1px solid $grayLight;
+      color: #a6a6a6;
     }
   }
   td {
     padding: 20px 15px;
+    overflow:hidden;
   }
 }
 .table-striped tbody tr:nth-of-type(2n + 1) {
@@ -25,8 +27,6 @@
   border: 0;
 }
 .table-hover tbody tr:hover {
-  //   color: #212529;
-  //   border: 0;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
