@@ -35,7 +35,7 @@
     "combined-stream": "^0.0.7",
     "cookiejar": "^2.0.1",
     "delayed-stream": "^0.0.5",
-    "extend": "^1.2.1",
+    "extend": "^3.0.2",
     "form-data": "^2.3.3",
     "formidable": "^1.0.14",
     "methods": "^1.0.1",
